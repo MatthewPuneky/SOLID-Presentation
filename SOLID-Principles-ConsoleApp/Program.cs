@@ -6,7 +6,11 @@ namespace SOLID_Principles_ConsoleApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //SingleResponsibilityPrinciple.Example2.Before.Run.Operation();
+            //OpenClosedPrinciple.Example2.Before.Run.Operation();
+            //LiskovSubstitutionPrinciple.Example1.Run.Operation();
+            //InterfaceSegregationPrinciple.Example1.Before.Run.Operation();
+
             Console.ReadLine();
         }
     }
