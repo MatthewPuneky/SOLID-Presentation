@@ -1,4 +1,4 @@
-﻿namespace InterfaceSegregationPrinciple.Before
+﻿namespace InterfaceSegregationPrinciple.Example1.Before
 {
     public interface IXeroxMacine
     {

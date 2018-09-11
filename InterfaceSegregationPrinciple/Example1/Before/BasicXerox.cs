@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InterfaceSegregationPrinciple.Before
+namespace InterfaceSegregationPrinciple.Example1.Before
 {
     public class BasicXeroxMacine : IXeroxMacine
     {

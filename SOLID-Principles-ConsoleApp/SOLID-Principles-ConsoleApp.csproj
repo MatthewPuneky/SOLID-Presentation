@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DependencyInversionPrinciple\DependencyInversionPrinciple.csproj" />
     <ProjectReference Include="..\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj" />
     <ProjectReference Include="..\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj" />
     <ProjectReference Include="..\OpenClosedPrinciple\OpenClosedPrinciple.csproj" />

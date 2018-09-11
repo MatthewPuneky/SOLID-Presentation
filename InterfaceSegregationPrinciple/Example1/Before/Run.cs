@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace InterfaceSegregationPrinciple.Before
+﻿namespace InterfaceSegregationPrinciple.Example1.Before
 {
     public class Run
     {

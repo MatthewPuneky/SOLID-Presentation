@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using InterfaceSegregationPrinciple.After.Machines;
-using InterfaceSegregationPrinciple.After.XeroxParts;
+﻿using InterfaceSegregationPrinciple.Example1.After.Machines;
+using InterfaceSegregationPrinciple.Example1.After.XeroxParts;
 
-namespace InterfaceSegregationPrinciple.After
+namespace InterfaceSegregationPrinciple.Example1.After
 {
     public class Run
     {

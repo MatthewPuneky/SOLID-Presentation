@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace InterfaceSegregationPrinciple.After.XeroxParts
+namespace InterfaceSegregationPrinciple.Example1.After.XeroxParts
 {
     public interface ICoffeeMaker
     {

@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using InterfaceSegregationPrinciple.After.XeroxParts;
+﻿using InterfaceSegregationPrinciple.Example1.After.XeroxParts;
 
-namespace InterfaceSegregationPrinciple.After.Machines
+namespace InterfaceSegregationPrinciple.Example1.After.Machines
 {
     public class BasicXerox
     {
