@@ -11,6 +11,15 @@ namespace OpenClosedPrinciple.Example2.Before
         {
             var player = new Player();
             player.AttackWithWeapon();
+
+            player.CurrentWeapon = new Sword();
+            player.AttackWithWeapon();
+
+            player.CurrentWeapon = new Bow();
+            player.AttackWithWeapon();
+
+            player.CurrentWeapon = 32;
+            player.AttackWithWeapon();
         }
     }
 

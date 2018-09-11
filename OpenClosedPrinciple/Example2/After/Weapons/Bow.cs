@@ -2,13 +2,13 @@
 
 namespace OpenClosedPrinciple.Example2.After.Weapons
 {
-    public class Unarmed : IWeaponStrategy
+    public class Bow : IWeaponStrategy
     {
-        public int Damage { get; } = 1;
+        public int Damage { get; } = 3;
 
         public int Attack()
         {
-            Console.WriteLine("You attack with your fists!");
+            Console.WriteLine("You attacked with your Bow!");
             return Damage;
         }
     }

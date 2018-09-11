@@ -5,4 +5,11 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple.csproj" />
+    <ProjectReference Include="..\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj" />
+    <ProjectReference Include="..\OpenClosedPrinciple\OpenClosedPrinciple.csproj" />
+    <ProjectReference Include="..\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj" />
+  </ItemGroup>
+
 </Project>

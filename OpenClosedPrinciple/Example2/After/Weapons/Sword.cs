@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace OpenClosedPrinciple.Example2.Before.Weapons
+namespace OpenClosedPrinciple.Example2.After.Weapons
 {
-    public class Sword
+    public class Sword : IWeaponStrategy
     {
         public int Damage { get; } = 3;
 

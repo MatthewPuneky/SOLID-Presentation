@@ -6,7 +6,7 @@ namespace SingleResponsibilityPrinciple.Example1.Before
 {
     public class Run
     {
-        public void Operation()
+        public static void Operation()
         {
             var newUser = new User();
             var userHasProvidedValidUsername = false;
